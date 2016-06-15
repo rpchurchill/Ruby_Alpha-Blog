@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Heroku Production Server" type="heroku-deploy" factoryName="Heroku Deployment" server-name="Heroku">
+    <deployment type="module" name="alpha-blog">
+      <settings>
+        <option name="host" value="" />
+      </settings>
+    </deployment>
+    <method />
+  </configuration>
+</component>
